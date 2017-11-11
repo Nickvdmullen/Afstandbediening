@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Afstandbediening.Android", "Afstandbediening\Afstandbediening.Android\Afstandbediening.Android.csproj", "{1DBD8FB1-3C42-4285-B4AD-E78A586C395C}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Afstandbediening", "Afstandbediening\Afstandbediening\Afstandbediening.shproj", "{78BC72BA-095B-41DC-B0F6-6FBD4BC520B1}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Afstandbediening\Afstandbediening\Afstandbediening.projitems*{1dbd8fb1-3c42-4285-b4ad-e78a586c395c}*SharedItemsImports = 4
+		Afstandbediening\Afstandbediening\Afstandbediening.projitems*{78bc72ba-095b-41dc-b0f6-6fbd4bc520b1}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DBD8FB1-3C42-4285-B4AD-E78A586C395C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DBD8FB1-3C42-4285-B4AD-E78A586C395C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DBD8FB1-3C42-4285-B4AD-E78A586C395C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1DBD8FB1-3C42-4285-B4AD-E78A586C395C}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{1DBD8FB1-3C42-4285-B4AD-E78A586C395C}.Debug|ARM.Build.0 = Debug|Any CPU
+		{1DBD8FB1-3C42-4285-B4AD-E78A586C395C}.Debug|ARM.Deploy.0 = Debug|Any CPU
+		{1DBD8FB1-3C42-4285-B4AD-E78A586C395C}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{1DBD8FB1-3C42-4285-B4AD-E78A586C395C}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{1DBD8FB1-3C42-4285-B4AD-E78A586C395C}.Debug|iPhone.Deploy.0 = Debug|Any CPU
+		{1DBD8FB1-3C42-4285-B4AD-E78A586C395C}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{1DBD8FB1-3C42-4285-B4AD-E78A586C395C}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{1DBD8FB1-3C42-4285-B4AD-E78A586C395C}.Debug|iPhoneSimulator.Deploy.0 = Debug|Any CPU
+		{1DBD8FB1-3C42-4285-B4AD-E78A586C395C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1DBD8FB1-3C42-4285-B4AD-E78A586C395C}.Debug|x64.Build.0 = Debug|Any CPU
+		{1DBD8FB1-3C42-4285-B4AD-E78A586C395C}.Debug|x64.Deploy.0 = Debug|Any CPU
+		{1DBD8FB1-3C42-4285-B4AD-E78A586C395C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1DBD8FB1-3C42-4285-B4AD-E78A586C395C}.Debug|x86.Build.0 = Debug|Any CPU
+		{1DBD8FB1-3C42-4285-B4AD-E78A586C395C}.Debug|x86.Deploy.0 = Debug|Any CPU
+		{1DBD8FB1-3C42-4285-B4AD-E78A586C395C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DBD8FB1-3C42-4285-B4AD-E78A586C395C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DBD8FB1-3C42-4285-B4AD-E78A586C395C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{1DBD8FB1-3C42-4285-B4AD-E78A586C395C}.Release|ARM.ActiveCfg = Release|Any CPU
+		{1DBD8FB1-3C42-4285-B4AD-E78A586C395C}.Release|ARM.Build.0 = Release|Any CPU
+		{1DBD8FB1-3C42-4285-B4AD-E78A586C395C}.Release|ARM.Deploy.0 = Release|Any CPU
+		{1DBD8FB1-3C42-4285-B4AD-E78A586C395C}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{1DBD8FB1-3C42-4285-B4AD-E78A586C395C}.Release|iPhone.Build.0 = Release|Any CPU
+		{1DBD8FB1-3C42-4285-B4AD-E78A586C395C}.Release|iPhone.Deploy.0 = Release|Any CPU
+		{1DBD8FB1-3C42-4285-B4AD-E78A586C395C}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{1DBD8FB1-3C42-4285-B4AD-E78A586C395C}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{1DBD8FB1-3C42-4285-B4AD-E78A586C395C}.Release|iPhoneSimulator.Deploy.0 = Release|Any CPU
+		{1DBD8FB1-3C42-4285-B4AD-E78A586C395C}.Release|x64.ActiveCfg = Release|Any CPU
+		{1DBD8FB1-3C42-4285-B4AD-E78A586C395C}.Release|x64.Build.0 = Release|Any CPU
+		{1DBD8FB1-3C42-4285-B4AD-E78A586C395C}.Release|x64.Deploy.0 = Release|Any CPU
+		{1DBD8FB1-3C42-4285-B4AD-E78A586C395C}.Release|x86.ActiveCfg = Release|Any CPU
+		{1DBD8FB1-3C42-4285-B4AD-E78A586C395C}.Release|x86.Build.0 = Release|Any CPU
+		{1DBD8FB1-3C42-4285-B4AD-E78A586C395C}.Release|x86.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {084D8F90-5947-428A-99D7-747F19F16089}
+	EndGlobalSection
+EndGlobal
