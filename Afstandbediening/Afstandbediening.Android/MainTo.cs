@@ -28,22 +28,22 @@ namespace Afstandbediening.Droid
 
             favButton.Click += delegate
             {
-                StartActivity(typeof(MainTo));
+                StartActivity(typeof(FavAct));
             };
 
             searchButton.Click += delegate
             {
-                StartActivity(typeof(MainTo));
+                StartActivity(typeof(SearchAct));
             };
 
             appButton.Click += delegate
             {
-                StartActivity(typeof(MainTo));
+                StartActivity(typeof(AppsAct));
             };
 
             adminButton.Click += delegate
             {
-                StartActivity(typeof(MainTo));
+                StartActivity(typeof(AdminAct));
             };
 
             logoutButton.Click += delegate

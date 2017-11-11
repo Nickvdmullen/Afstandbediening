@@ -16,7 +16,7 @@ public class MainTo
 	}
 
 
-	public MainTo ()
+	public MainTo () throws java.lang.Throwable
 	{
 		super ();
 		if (getClass () == MainTo.class)

@@ -16,7 +16,7 @@ public class AdminAct
 	}
 
 
-	public AdminAct ()
+	public AdminAct () throws java.lang.Throwable
 	{
 		super ();
 		if (getClass () == AdminAct.class)

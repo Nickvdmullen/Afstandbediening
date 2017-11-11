@@ -16,7 +16,7 @@ public class SearchAct
 	}
 
 
-	public SearchAct ()
+	public SearchAct () throws java.lang.Throwable
 	{
 		super ();
 		if (getClass () == SearchAct.class)

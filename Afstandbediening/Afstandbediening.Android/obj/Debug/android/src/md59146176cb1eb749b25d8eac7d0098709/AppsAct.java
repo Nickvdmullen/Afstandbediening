@@ -16,7 +16,7 @@ public class AppsAct
 	}
 
 
-	public AppsAct ()
+	public AppsAct () throws java.lang.Throwable
 	{
 		super ();
 		if (getClass () == AppsAct.class)

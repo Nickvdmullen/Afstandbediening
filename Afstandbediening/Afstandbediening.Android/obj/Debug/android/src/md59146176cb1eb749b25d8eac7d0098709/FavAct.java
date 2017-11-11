@@ -16,7 +16,7 @@ public class FavAct
 	}
 
 
-	public FavAct ()
+	public FavAct () throws java.lang.Throwable
 	{
 		super ();
 		if (getClass () == FavAct.class)
